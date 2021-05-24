@@ -1,0 +1,31 @@
+{
+  "name": "fashioncloud-api-client",
+  "version": "1.0.0",
+  "description": "node client for getting data from fashion.cloud api (v2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluewire-solutions/fashioncloud-api-client.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "client",
+    "fashioncloud"
+  ],
+  "author": "bluewire.solutions GmbH & Co. KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluewire-solutions/fashioncloud-api-client/issues"
+  },
+  "homepage": "https://github.com/bluewire-solutions/fashioncloud-api-client#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
